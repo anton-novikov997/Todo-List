@@ -8,8 +8,8 @@
 Посмотреть живую демо-версию проекта можно здесь.: 
 ## Getting started
 
-To get this app running locally, you'll need to have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/getting-started/install) installed on your machine.
-In the project directory, you can run:
+Чтобы это приложение работало локально, вам необходимо установить [Node.js](https://nodejs.org/en/) и [Yarn](https://yarnpkg.com/getting-started/install) на вашей машине.
+В каталоге проекта вы можете запустить:
 
 ```bash
 yarn && yarn start
