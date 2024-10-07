@@ -5,7 +5,6 @@
 
 ## Это приложение Todo App, созданное с использованием React, Redux и оформленное с использованием Sass.
 
-Посмотреть живую демо-версию проекта можно здесь.: 
 ## Getting started
 
 Чтобы это приложение работало локально, вам необходимо установить [Node.js](https://nodejs.org/en/) и [Yarn](https://yarnpkg.com/getting-started/install) на вашей машине.
