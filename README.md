@@ -30,7 +30,6 @@
 
 ```bash
   npm run start
-Клиент работает на http://localhost:3003
 ```
 # Tech Stack 💻:
 
